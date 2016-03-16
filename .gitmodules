@@ -1,0 +1,3 @@
+[submodule "formation"]
+	path = formation
+	url = git@github.com:elgcdju/formation.git
