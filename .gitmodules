@@ -1,3 +1,6 @@
 [submodule "formation"]
 	path = formation
 	url = git@github.com:elgcdju/formation.git
+[submodule "subModule"]
+	path = subModule
+	url = git@github.com:devnoob35/subModule.git
